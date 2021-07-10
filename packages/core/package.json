@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@fyc-cli-dev/utils": "^1.1.0"
-  }
+  },
+  "gitHead": "16001f08405a9f043c02679c8336379100911794"
 }
