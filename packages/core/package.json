@@ -1,6 +1,6 @@
 {
   "name": "@fyc-cli-dev/core",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "> TODO: description",
   "author": "fengyuchaochao <13241484699@163.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@fyc-cli-dev/utils": "^1.1.0"
+    "@fyc-cli-dev/utils": "^1.2.0"
   },
   "gitHead": "16001f08405a9f043c02679c8336379100911794"
 }
